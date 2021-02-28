@@ -1,0 +1,12 @@
+{
+  "name": "laoyuegou\/export",
+  "description": "Package description here.",
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Laoyuegou\\Export\\": "src"
+    }
+  }
+}
